@@ -1,0 +1,356 @@
+{
+    "1":{
+        "name":"Картофельное пюре",
+        "cost":40,
+        "img" :"1.jpg",
+        "description":"200гр"
+    },
+    "2":{
+        "name":"Рис",
+        "cost":40,
+        "img" :"2.jpg",
+        "description":"200гр"
+    },
+    "3":{
+        "name":"Рис с овощами",
+        "cost":45,
+        "img" :"3.jpg",
+        "description":"200гр"
+    },
+    "4":{
+        "name":"Гречка",
+        "cost":40,
+        "img" :"4.jpg",
+        "description":"200гр"
+    },
+    "5":{
+        "name":"Картофель по-деревенски",
+        "cost":50,
+        "img" :"5.jpg",
+        "description":"200гр"
+    },
+    "6":{
+        "name":"Овощи на пару",
+        "cost":60,
+        "img" :"6.jpg",
+        "description":"180гр"
+    },
+    "7":{
+        "name":"Картофель фри",
+        "cost":85,
+        "img" :"7.jpg",
+        "description":"150гр"
+    },
+    "8":{
+        "name":"Морковь с древесными грибами",
+        "cost":45,
+        "img" :"8.jpg",
+        "description":"70гр"
+    },
+    "9":{
+        "name":"Овощной",
+        "cost":45,
+        "img" :"9.jpg",
+        "description":"70гр"
+    },
+    "10":{
+        "name":"Морковный по-корейски",
+        "cost":45,
+        "img" :"10.jpg",
+        "description":"70гр"
+    },
+    "11":{
+        "name":"Свекольный с чесноком ",
+        "cost":45,
+        "img" :"11.jpg",
+        "description":"100гр"
+    },
+    "12":{
+        "name":"Обжорка",
+        "cost":60,
+        "img" :"12.jpg",
+        "description":"100гр"
+    },
+    "13":{
+        "name":"Китайский",
+        "cost":65,
+        "img" :"13.jpg",
+        "description":"100гр"
+    },
+    "14":{
+        "name":"Цезарь с курицей",
+        "cost":90,
+        "img" :"14.jpg",
+        "description":"100гр"
+    },
+    "15":{
+        "name":"Цезарь с горбушей",
+        "cost":95,
+        "img" :"15.jpg",
+        "description":"100гр"
+    },
+    "16":{
+        "name":"Дангина",
+        "cost":65,
+        "img" :"16.jpg",
+        "description":"100гр"
+    },
+    "17":{
+        "name":"Сельдь под шубой ",
+        "cost":60,
+        "img" :"17.jpg",
+        "description":"100гр"
+    },
+    "18":{
+        "name":"Любовница",
+        "cost":55,
+        "img" :"18.jpg",
+        "description":"100гр"
+    },
+    "19":{
+        "name":"Оливье",
+        "cost":55,
+        "img" :"19.jpg",
+        "description":"100гр"
+    },
+    "20":{
+        "name":"Прага",
+        "cost":60,
+        "img" :"20.jpg",
+        "description":"100гр"
+    },
+    "21":{
+        "name":"Греческий",
+        "cost":70,
+        "img" :"21.jpg",
+        "description":"100гр"
+        },
+    "22":{
+        "name":"Шулэн",
+        "cost":100,
+        "img" :"22.jpg",
+        "description":"500гр"
+        },
+    "23":{
+        "name":"Суп с пельменями",
+        "cost":115,
+        "img" :"23.jpg",
+        "description":"500гр"
+        },
+    "24":{
+        "name":"Борщ",
+        "cost":95,
+        "img" :"24.jpg",
+        "description":"500гр"
+        },
+    "25":{
+        "name":"Лагман",
+        "cost":110,
+        "img" :"25.jpg",
+        "description":"500гр"
+        },
+    "26":{
+        "name":"Солянка",
+        "cost":110,
+        "img" :"26.jpg",
+        "description":"500гр"
+        },
+    "27":{
+        "name":"Шулэн(из баранины)",
+        "cost":110,
+        "img" :"27.jpg",
+        "description":"500гр"
+        },
+    "28":{
+        "name":"Бухлеор(из говядины)",
+        "cost":160,
+        "img" :"28.jpg",
+        "description":"500гр"
+        },
+    "29":{
+        "name":"Бухлеор(из баранины)",
+        "cost":160,
+        "img" :"29.jpg",
+        "description":"500гр"
+        },
+    "30":{
+        "name":"Пельмени(вареные)",
+        "cost":100,
+        "img" :"30.jpg",
+        "description":"300гр"
+        },
+    "31":{
+        "name":"Мясо”веревочное”",
+        "cost":90,
+        "img" :"31.jpg",
+        "description":"120гр"
+        },
+    "32":{
+        "name":"Запеканка куриная",
+        "cost":110,
+        "img" :"32.jpg",
+        "description":"200гр"
+        },
+    "33":{
+        "name":"Блюдо Монгол",
+        "cost":150,
+        "img" :"33.jpg",
+        "description":"300гр"
+        },
+    "34":{
+        "name":"Пунтууз",
+        "cost":130,
+        "img" :"34.jpg",
+        "description":"250гр"
+        },
+    "35":{
+        "name":"Горбуша под сыром",
+        "cost":90,
+        "img" :"35.jpg",
+        "description":"100гр"
+        },
+    "36":{
+        "name":"Котлета рыбная",
+        "cost":85,
+        "img" :"36.jpg",
+        "description":"100гр"
+        },
+    "37":{
+        "name":"Котлета мясная",
+        "cost":85,
+        "img" :"37.jpg",
+        "description":"100гр"
+        },
+    "38":{
+        "name":"Отбивная из свинины",
+        "cost":140,
+        "img" :"38.jpg",
+        "description":"100гр"
+        },
+    "39":{
+        "name":"Печень жареная",
+        "cost":85,
+        "img" :"39.jpg",
+        "description":"100гр"
+        },
+    "40":{
+        "name":"Паста Карбонара",
+        "cost":120,
+        "img" :"40.jpg",
+        "description":"250гр"
+        },
+    "41":{
+        "name":"Паста с курицей",
+        "cost":120,
+        "img" :"41.jpg",
+        "description":"250гр"
+        },
+    "42":{
+        "name":"Шарбин",
+        "cost":90,
+        "img" :"42.jpg",
+        "description":"150гр"
+        },
+    "43":{
+        "name":"Хушуур",
+        "cost":70,
+        "img" :"43.jpg",
+        "description":"80гр"
+        },
+    "44":{
+        "name":"Буузы",
+        "cost":40,
+        "img" :"44.jpg",
+        "description":"75гр"
+        },
+    "45":{
+        "name":"Цуйван(со свининой)",
+        "cost":130,
+        "img" :"45.jpg",
+        "description":"250гр"
+        },
+    "46":{
+        "name":"Жареха(из баранины)",
+        "cost":160,
+        "img" :"46.jpg",
+        "description":"300гр"
+        },
+    "47":{
+        "name":"Лагман жареный",
+        "cost":120,
+        "img" :"47.jpg",
+        "description":"250гр"
+        },
+    "48":{
+        "name":"Сет №1",
+        "cost":300,
+        "img" :"48.jpg",
+        "description":"390гр"
+        },
+    "49":{
+        "name":"Сет №2",
+        "cost":650,
+        "img" :"49.jpg",
+        "description":"845гр"
+        },
+    "50":{
+        "name":"Блины с джемом",
+        "cost":45,
+        "img" :"50.jpg",
+        "description":"1шт"
+        },
+    "51":{
+        "name":"Блины со сгущенкой",
+        "cost":45,
+        "img" :"51.jpg",
+        "description":"1шт"
+        },
+    "52":{
+        "name":"Боовы с джемом",
+        "cost":45,
+        "img" :"52.jpg",
+        "description":""
+        },
+    "53":{
+        "name":"Боовы со сгущенкой",
+        "cost":45,
+        "img" :"53.jpg",
+        "description":"845гр"
+        },
+    "54":{
+        "name":"Хлеб домашний",
+        "cost":3,
+        "img" :"54.jpg",
+        "description":"1шт"
+        },
+    "55":{
+        "name":"Торт Красный бархат",
+        "cost":80,
+        "img" :"55.jpg",
+        "description":"1кусок"
+        },
+    "56":{
+        "name":"Торт Сникерс",
+        "cost":80,
+        "img" :"56.jpg",
+        "description":"1кусок"
+        },
+    "57":{
+        "name":"Торт Черемуховый",
+        "cost":70,
+        "img" :"57.jpg",
+        "description":"1кусок"
+        },
+    "58":{
+        "name":"Торт Чизкейк",
+        "cost":70,
+        "img" :"58.jpg",
+        "description":"1кусок"
+        },
+    "59":{
+        "name":"Торт Бабушкин",
+        "cost":75,
+        "img" :"59.jpg",
+        "description":"1кусок"
+        }
+}
